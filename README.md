@@ -1,7 +1,6 @@
 # PYTHON for 5G MU,Massive MIMO
 
-![Uploading electronics-10-01667-g001.png…]()
-
+![electronics-10-01667-g001](https://user-images.githubusercontent.com/86367130/130400310-307cac76-67f7-4c65-b5d9-046597f787fd.png)
 
 # Introduction
 
