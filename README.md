@@ -1,6 +1,9 @@
 # PYTHON for 5G MU,Massive MIMO
 
-#Introduction
+![Uploading electronics-10-01667-g001.png…]()
+
+
+# Introduction
 
 Challenges for existing Cellular Networks - 
 a) Peak downlink data rate in LTE is 150Mbps. 
@@ -16,7 +19,7 @@ Hence, new application requires a massive increase in aggregate data rates.
 
 
 
-#MASSIVE MIMO Technology
+# MASSIVE MIMO Technology
 
 
 
