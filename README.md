@@ -23,5 +23,17 @@ Hence, new application requires a massive increase in aggregate data rates.
 
 ![electronics-10-01667-g001](https://user-images.githubusercontent.com/86367130/130400310-307cac76-67f7-4c65-b5d9-046597f787fd.png)
 
+Massive MIMO Technology base station has a substancially large number of antennas approximately 300-400. It results in huge spatial multipexing gains. By adding more number of antennas leads to increase in the capacity of cellular netwkorks by several times. This also reduces radiated power but at the same time signal processing is simplified. 
+Current wireless networks use 300Mhz - 6GHz band which are limited to sub-6Ghz spectrum.
 
+mmWave exploits high frequency mm-Wave band which is in the range of 6-300GHz with large spectral bands.
 
+# Projects
+
++ # Additive White Gaussian Noise (AWGN) System
+
+> Bit Error Rate analysis of AWGN system
+             BER deceases with increase in SNR(dB)
+ ![image](https://user-images.githubusercontent.com/86367130/130403351-ca724b17-041e-46a1-b9a8-15b6ac0d7bb8.png)
+ 
+ 
