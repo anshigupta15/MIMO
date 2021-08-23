@@ -5,6 +5,7 @@
 # Introduction
 
 Challenges for existing Cellular Networks - 
+
 a) Peak downlink data rate in LTE is 150Mbps. 
 b) Can support approximately 37 users at HD rate(4Mbps).
 c) LTE networks can support around 100-1000 users per cell.
