@@ -6,10 +6,10 @@
 
 Challenges for existing Cellular Networks - 
 
-a) Peak downlink data rate in LTE is 150Mbps. 
-b) Can support approximately 37 users at HD rate(4Mbps).
-c) LTE networks can support around 100-1000 users per cell.
-d) Latency in 4G networks is around 30-50ms. Hence they cannot support applications such as autonomous vehicles and drone communication.
++ Peak downlink data rate in LTE is 150Mbps. 
++ Can support approximately 37 users at HD rate(4Mbps).
++ LTE networks can support around 100-1000 users per cell.
++ Latency in 4G networks is around 30-50ms. Hence they cannot support applications such as autonomous vehicles and drone communication.
 
 Hence, new application requires a massive increase in aggregate data rates. 
 
