@@ -38,4 +38,13 @@ BER deceases exponentially with increase in SNR(dB)
    
    ![image](https://user-images.githubusercontent.com/86367130/130403351-ca724b17-041e-46a1-b9a8-15b6ac0d7bb8.png)
  
++ # Rayleigh Fading Channel
+
+> Bit Error Rate of Rayleigh Fading Channel decreases linearly.
+   
+   ![Rayleigh_fading](https://user-images.githubusercontent.com/86367130/130616864-a56fca5d-dea8-4cac-a083-e5cc4d88daf4.PNG)
+
++ # Maximal Ratio Combiner(MRC)
+ 
+> Bit
  
