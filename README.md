@@ -46,5 +46,12 @@ BER deceases exponentially with increase in SNR(dB)
 
 + # Maximal Ratio Combiner(MRC)
  
-> Bit
+> Bit Error of Maximal Ratio Combiner is less than that of Rayleigh Fading Channel
+
+   ![BER for MRC](https://user-images.githubusercontent.com/86367130/130618365-621fd436-8203-4560-8a00-c544f4c72127.PNG)
+
++ # Multiple Input Multiple Output(MIMO)
+
+> Bit Error Rate
  
+   
