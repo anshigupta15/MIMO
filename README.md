@@ -34,7 +34,7 @@ mmWave exploits high frequency mm-Wave band which is in the range of 6-300GHz wi
 
 > Bit Error Rate analysis of AWGN system
 
-BER deceases with increase in SNR(dB)
+BER deceases exponentially with increase in SNR(dB)
    
    ![image](https://user-images.githubusercontent.com/86367130/130403351-ca724b17-041e-46a1-b9a8-15b6ac0d7bb8.png)
  
