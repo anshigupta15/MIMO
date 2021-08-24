@@ -54,4 +54,9 @@ BER deceases exponentially with increase in SNR(dB)
 
 > Bit Error Rate
  
+   ![BER for MIMO](https://user-images.githubusercontent.com/86367130/130619510-54c7437d-593e-45d8-abeb-db907ed8647a.PNG)
+
+
+
+   
    
